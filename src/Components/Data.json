@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "A popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting, cruelty-free formula.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.9,
+      "stock": 5,
+      "tags": ["beauty", "mascara"],
+      "brand": "Essence",
+      "sku": "RCH45Q1A",
+      "weight": 2,
+      "dimensions": { "width": 23.17, "height": 14.43, "depth": 28.01 },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        { "rating": 5, "comment": "Amazing volume!", "reviewerName": "Anna Smith" },
+        { "rating": 4, "comment": "Nice, but dries quickly.", "reviewerName": "Maria Lopez" }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 24,
+      "thumbnail": "https://tse4.mm.bing.net/th/id/OIP.5YxZE4uIaWV4PNJNK5gasQHaHa?pid=Api&P=0&h=220"
+    },
+    {
+      "id": 2,
+      "title": "iPhone 14 Pro",
+      "description": "Apple iPhone 14 Pro with A16 Bionic chip, 48MP camera, and Dynamic Island display.",
+      "category": "smartphones",
+      "price": 1199.99,
+      "discountPercentage": 10.5,
+      "rating": 4.95,
+      "stock": 12,
+      "tags": ["apple", "phone", "electronics"],
+      "brand": "Apple",
+      "sku": "APL14PRO",
+      "weight": 180,
+      "dimensions": { "width": 7.1, "height": 14.7, "depth": 0.8 },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3-5 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        { "rating": 5, "comment": "The best iPhone yet!", "reviewerName": "James Miller" },
+        { "rating": 4, "comment": "Great camera!", "reviewerName": "Sophie Turner" }
+      ],
+      "returnPolicy": "15 days return policy",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.i7VnALMn3TLuQaYsX1mZHQHaEs?pid=Api&P=0&h=220"
+    },
+    {
+      "id": 3,
+      "title": "HP Pavilion 15 Laptop",
+      "description": "HP Pavilion 15 with Intel i7, 16GB RAM, 512GB SSD, and 15.6-inch display.",
+      "category": "laptops",
+      "price": 899.99,
+      "discountPercentage": 8.0,
+      "rating": 4.7,
+      "stock": 8,
+      "tags": ["laptop", "hp", "electronics"],
+      "brand": "HP",
+      "sku": "HP15PAV",
+      "weight": 1.7,
+      "dimensions": { "width": 35.8, "height": 24, "depth": 1.8 },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 7 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        { "rating": 5, "comment": "Fast and reliable.", "reviewerName": "Olivia White" },
+        { "rating": 4, "comment": "Battery life could be better.", "reviewerName": "David Lee" }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.tli9x_z4kQ3WAZpG3I5O_QHaFx?pid=Api&P=0&h=220"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Max 270",
+      "description": "Stylish and comfortable running shoes by Nike with responsive cushioning.",
+      "category": "fashion",
+      "price": 149.99,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 20,
+      "tags": ["shoes", "nike", "sportswear"],
+      "brand": "Nike",
+      "sku": "NK270RUN",
+      "weight": 0.9,
+      "dimensions": { "width": 30, "height": 12, "depth": 10 },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 5 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        { "rating": 5, "comment": "Super comfy!", "reviewerName": "Michael Brown" },
+        { "rating": 5, "comment": "Perfect for daily running.", "reviewerName": "Jessica Green" }
+      ],
+      "returnPolicy": "15 days return policy",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.QKGr3_IINsIItSlOrUxdLwHaHa?pid=Api&P=0&h=220"
+    },
+    {
+      "id": 5,
+      "title": "Samsung 55-inch 4K Smart TV",
+      "description": "Samsung UHD Smart TV with HDR10+ and voice control support.",
+      "category": "electronics",
+      "price": 699.99,
+      "discountPercentage": 12.0,
+      "rating": 4.9,
+      "stock": 10,
+      "tags": ["tv", "samsung", "electronics"],
+      "brand": "Samsung",
+      "sku": "SMTV55UHD",
+      "weight": 12,
+      "dimensions": { "width": 122, "height": 70, "depth": 8 },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 5 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        { "rating": 5, "comment": "Amazing picture quality!", "reviewerName": "Liam Wilson" },
+        { "rating": 4, "comment": "Sound could be better.", "reviewerName": "Emma Johnson" }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "thumbnail": "https://tse1.mm.bing.net/th/id/OIP.tymHP1w4948wr0UkwunDcwHaHa?pid=Api&P=0&h=220"
+    }
+  ],
+  "total": 5,
+  "skip": 0,
+  "limit": 5
+}
